@@ -4,10 +4,10 @@
 
 by
 
-## Hardeep Singh Rai
-### Class Roll No.: 2014xyx
-### Branch: Civil Engineering
-### Batch: 2020-23
+## Guneet Kaur 
+### Class Roll No.: 2017101
+### Branch: Electronics and Communication Engineering
+### Batch: 2020-24
 ### Session: Odd Semester 2020-21
 
 ## Submitted to: Prof. H. S. Rai
